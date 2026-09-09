@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r"""# 🎮 Gaming & NFT Website
-
 A modern and responsive gaming-themed website built as a Front-End project using **HTML5** and **CSS3**.
 
 The project presents a complete gaming platform interface with multiple sections for games, players, tournaments, products, team members, and live content.
